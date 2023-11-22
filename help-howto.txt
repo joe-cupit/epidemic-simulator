@@ -1,0 +1,21 @@
+HOW TO USE THE SIMULATION SOFTWARE
+The play/pause control panel allows you to (in order) Return to Start/Previous Timestep/Play or Pause/Next Timestep/Final Timestep. The speed of the simulation can be controlled with the blue slider. The 'Scale Graph' option allows you to force the grpahs to have the same maximum value. The graph legend can be turned on and off. The other checkboxes control what data is displayed on the graphs.
+
+DISEASE COMPARISON
+This method of simulation allows you to select two different diseases and one location. It will simulate how both diseases spread in that location and display the graphs side by side for easy comparison.
+
+LOCATION COMPARISON
+This method allows you to select two different locations and one disease. It simulates how this disease spreads in both locations and displays the graphs side by side for comparison.
+
+PREVENTATIVE MEASURES COMPARISON
+For this method of simulation you select one disease and one location and change the way preventative measures are implemeted in two different simulations. The graphs are then displayed side by side for comparison.
+
+SINGLE SIMULATION
+The simplest method of simulation allows you to select one disease and one location and, while controlling the way preventative measures are implemeted, view how the simulation turns out displayed in only one graph.
+
+
+SELECTING A LOCATION TO SIMULATE AT
+When choosing a location to simulate you can either select a real world country or create your own. When selecting a real world country, it can be selected with the world map by clicking the country you would like, or by searching the drop down at the top and selecting the country from there. When creating/using your own custom locations, the five slots in the bottom left can be used to save and add locations you would like. When creating a location you can choose the population size and the location area/desnity. This location can then be added with either the plus button next to the name, or by clicking 'Add to Sim' when editing it.
+
+SELECTING A DISEASE TO SIMULATE
+When choosing a disease to simulate you can either select an acutal disease (past/present) or create your own disease. Selecting a disease is done by clicking it in the list and selecting 'Add to Sim'. When a disease is selected you can check its parameters before adding it. Creating your own disease is simply done by clicking 'New Disease' and entering the relevant information. Custom diseases can also be edited in this way. Adding a custom disease to the simulation is done in the same way as regular diseases.

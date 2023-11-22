@@ -1,0 +1,11 @@
+{
+    "simulation capacity": 10000,
+    "locations": [
+        "Example Custom",
+        "Germany"
+    ],
+    "diseases": [
+        "SARS",
+        "Measles"
+    ]
+}
